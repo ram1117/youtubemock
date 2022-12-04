@@ -1,2 +1,3 @@
 another test branch to practice git pull
-commit 1
+commit 1 - local branch
+commit 2 -from remote
